@@ -3,6 +3,8 @@ Software to perform colourisation of digitised analogue PAL composite video imag
 
 Initial upload is just the core .cpp file (to expedite forking into another project), though in the coming week or two I hope to upload the native Borland C++ Builder v6.0 project and supporting files.
 
+I fully acknowledge that the code as-supplied is very much "proof of principle" quality. It's evolved over 20 years. It's not elegant code, it's barely structured, and has next to no error-checking (which is partly why I'm holding back on uploading the whole project just yet). But it does do quite a nice job of decoding colour.
+
 ## Author
 PALcolour is written and maintained by William Andrew Steer.
 
